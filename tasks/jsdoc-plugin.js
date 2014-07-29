@@ -70,7 +70,7 @@ module.exports = function jsDocTask(grunt) {
 			jsDoc = jsDocPath;
 		} else {
 			//lookup jsdoc
-			jsDoc = exec.lookup(grunt, jsDocNpmPath, ['node_modules/grunt-jsdoc/']);
+			jsDoc = exec.lookup(grunt, jsDocNpmPath, ['node_modules/grunt-jsdoc-update/']);
 		}
 
         // convert jsdoc path to relative path

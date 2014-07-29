@@ -1,23 +1,16 @@
 {
-  "name": "grunt-jsdoc",
-  "description": "Integrates jsdoc3 generation into your Grunt build",
-  "version": "0.5.6",
-  "homepage": "https://github.com/krampstudio/grunt-jsdoc",
+  "name": "grunt-jsdoc-update",
+  "description": "Modify grunt-jsdoc for myself",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kuangwk/grunt-jsdoc-update",
   "author": {
-    "name": "Bertrand Chevrier",
-    "email": "chevrier.bertrand@gmail.com",
-    "url": "http://krampstudio.com"
+    "name": "Kevin Kuang",
+    "email": "kuangweike@gmail.com",
+    "url": ""
   },
-  "contributors": [
-    {
-      "name": "Mikhail Diatchenko",
-      "email": "mikhail.diatchenko@gmail.com",
-      "url": "http://www.webgear.co.nz"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/krampstudio/grunt-jsdoc.git"
+    "url": "git://github.com/kuangwk/grunt-jsdoc-update.git"
   },
   "bugs": {
     "url": "https://github.com/krampstudio/grunt-jsdoc/issues"
@@ -55,6 +48,7 @@
     "documentation",
     "doc",
     "jsdoc",
-    "jsdoc3"
+    "jsdoc3",
+    "grunt-jsdoc"
   ]
 }
